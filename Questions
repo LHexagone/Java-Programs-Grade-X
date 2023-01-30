@@ -1,1 +1,7 @@
-1. 
+1. Write a Program to enter 10 numbers into an array and print ints contents.
+2. Write a program to enter 10 numbers into an array and print it in reverse.
+3. Write a program to enter 10 numbers into an array and print the values of those cells whos subscript is odd.
+4. Write a program to initilize an array of 5 elements and print their sum and average.
+5. Write a program to enter 20 numbers and print only the even numbers. 
+6. Write a program to accept values into two diffrent arrays of 10 elements each. Store the sum of corrosponding cells in a third array and print it.
+7. 
