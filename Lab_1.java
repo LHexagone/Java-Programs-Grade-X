@@ -2,7 +2,7 @@
 
 import java.util.Scanner; 
 
-class Lab_1_X{ 
+class Lab_1{ 
     public static void main(){ 
         Scanner sc = new Scanner(System.in); 
         int a[] = new int[10];
