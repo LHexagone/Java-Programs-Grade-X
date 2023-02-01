@@ -4,5 +4,6 @@
 4. Write a program to initilize an array of 5 elements and print their sum and average.
 5. Write a program to enter 20 numbers and print only the even numbers. 
 6. Write a program to accept values into two diffrent arrays of 10 elements each. Store the sum of corrosponding cells in a third array and print it.
-7. 2 single dimensional arrays contain the following values: X[10]=5,-3,-2,1,0,12,19,16,25,13 and Y[8]=6,5,10,15,18,20,22,30.
-   WAP that results in a third array as follows: Z[18]=5,6,-3,5,-2,10,1,15,0,18,12,20,19,22,16,30,25,13. 
+7. Two single dimensional arrays contain the following values: X[10]={5,-3,-2,1,0,12,19,16,25,13}
+                                                               Y[8]={6,5,10,15,18,20,22,30}
+   Write a Program that results in a third array as follows:   Z[18]={5,6,-3,5,-2,10,1,15,0,18,12,20,19,22,16,30,25,13} 
