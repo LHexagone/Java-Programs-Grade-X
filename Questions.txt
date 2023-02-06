@@ -6,4 +6,10 @@
 6. Write a program to accept values into two diffrent arrays of 10 elements each. Store the sum of corrosponding cells in a third array and print it.
 7. Two single dimensional arrays contain the following values: X[10]={5,-3,-2,1,0,12,19,16,25,13}
                                                                Y[8]={6,5,10,15,18,20,22,30}
-   Write a Program that results in a third array as follows:   Z[18]={5,6,-3,5,-2,10,1,15,0,18,12,20,19,22,16,30,25,13} 
+   Write a Program that results in a third array as follows:   Z[18]={5,6,-3,5,-2,10,1,15,0,18,12,20,19,22,16,30,25,13}
+8. Write a program to enter marks and names of 10 students in an array and print them in a formated manner. 
+9. Write a program to store a list of roll numbers and total marks of 35 students of a class. Print the maximum of the marks and the roll number of the student who attained those marks.
+10. Write a program to initilize an array with the following values {6, 2, 3, 4, 1, 7, 8, 5}. Accept a value from the user and perform a linear search and print the cell position it occupies.
+11. Write a program to enter the names of 10 students into an array and ask the use for a name and locate using linear search.
+12. Write a program to initilize an array of 10 numaric elements in acending order. Accept a value from the user and using bimnary search print the cell position it occupies in the array. 
+13. Write a program to initilize a sorted array of 10 strings. Accept a string value from the user and using binary search print the cell position it occupies in the array. 
