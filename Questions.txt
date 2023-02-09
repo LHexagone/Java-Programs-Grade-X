@@ -1,4 +1,4 @@
-1. Write a Program to enter 10 numbers into an array and print ints contents.
+1. Write a Program to enter 10 numbers into an array and print its contents.
 
 2. Write a program to enter 10 numbers into an array and print it in reverse.
 
