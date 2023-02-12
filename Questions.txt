@@ -24,20 +24,20 @@
 
 11. Write a program to enter the names of 10 students into an array and ask the use for a name and locate using linear search.
 
-12. Write a program to initilize an array of 10 numaric elements in acending order.
+12. Write a program to initilize an array of 10 numaric elements in ascending order.
     Accept a value from the user and using bimnary search print the cell position it occupies in the array. 
 
 13. Write a program to initilize a sorted array of 10 strings. 
     Accept a string value from the user and using binary search print the cell position it occupies in the array. 
 
-14. Write a program to initilize an  array with 5 numaric elements and print the array in acending order in acending order using selection sort.
+14. Write a program to initilize an  array with 5 numaric elements and print the array in ascending order in acending order using selection sort.
 
 15. Write a program to initilize a alphanumeric and print the elements of the array in decending order using selection sort.
 
-16. Write a program to input 5 vowels into an array and sort it in acending order using selection sort.
+16. Write a program to input 5 vowels into an array and sort it in ascending order using selection sort.
 
 17. Write a program to initilize names into an array and print them in alphebetical order using selection sort.
 
 18. Write a program to enter the marks of 7 students into an array and sort it in decending order using Bubble sort.
 
-17. Write a program to enter 10 characters into a character array and sort them using bubble sort in acending order.
+17. Write a program to enter 10 characters into a character array and sort them using bubble sort in ascending order.
