@@ -41,3 +41,31 @@
 18. Write a program to enter the marks of 7 students into an array and sort it in decending order using Bubble sort.
 
 17. Write a program to enter 10 characters into a character array and sort them using bubble sort in ascending order.
+
+18. Write a program to enter marks of 7 students in an array and sort in descending order using bubble sort.
+
+19. Write a progran to enter 10 characters into a character array and sort them using bubble sort in ascending order.
+
+20. Write a program to enter 10 countries and their capatils into two single dimenctional arrays.
+    Enter the value of the county and print its corrosponding capatil.
+    
+21. Write a program to initilize 9 numbers into a 2D array and print it out in matrix format.
+
+22. Write a program to initilize 9 characters into a 2D array and print it in reverse order in a matrix format.
+
+23. Write a program to initilize 9 numbers into a 2D array and print the matrix displaying only the even numbers in the array.
+
+24. Write a program to initilize 9 numbers into a 2D array with n rows and m columns and print it in matrix format.
+
+25. Write a program to enter numbers into a 2D array with n rows and m columns and print the sun of the elements in each row.
+
+26. Write a program to enter numbers into a 2D array with n rows and m columns and print the sun of the elements in each column.
+
+27. Write a program to enter numbers into a 2D array and print the dum of the diagonal elements.
+
+28. Write a program to enter numbers into a 2D arraywith n rows and m columns and print the upper left half of the array.
+
+29. Write a program to enter 9 names into a 2D array. Print the left diagonal of the matrix.
+
+30. Write a program to enter the names of students  into an array and in another enter the marks obtained by 10 students in 2 tests (2D array).
+    Calculate the total marks obtained by each student and print the names of the students along with total marks obtained.
