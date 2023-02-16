@@ -55,7 +55,7 @@
 
 23. Write a program to initilize 9 numbers into a 2D array and print the matrix displaying only the even numbers in the array.
 
-24. Write a program to initilize 9 numbers into a 2D array with n rows and m columns and print it in matrix format.
+24. Write a program to enter numbers into a 2D array with n rows and m columns and print it in matrix format.
 
 25. Write a program to enter numbers into a 2D array with n rows and m columns and print the sun of the elements in each row.
 
