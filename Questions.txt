@@ -40,10 +40,6 @@
 
 18. Write a program to enter the marks of 7 students into an array and sort it in decending order using Bubble sort.
 
-17. Write a program to enter 10 characters into a character array and sort them using bubble sort in ascending order.
-
-18. Write a program to enter marks of 7 students in an array and sort in descending order using bubble sort.
-
 19. Write a progran to enter 10 characters into a character array and sort them using bubble sort in ascending order.
 
 20. Write a program to enter 10 countries and their capatils into two single dimenctional arrays.
