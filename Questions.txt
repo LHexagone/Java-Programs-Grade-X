@@ -63,5 +63,17 @@
 
 29. Write a program to enter 9 names into a 2D array. Print the left diagonal of the matrix.
 
-30. Write a program to enter the names of students  into an array and in another enter the marks obtained by 10 students in 2 tests (2D array).
+30. Write a program to enter names of 5 students into an array and marks obtained in a test in another array. 
+    Display the higest marks obtained along qith the name of a student.
+
+31. Write a program to enter the names of students  into an array and in another enter the marks obtained by 10 students in 2 tests (2D array).
     Calculate the total marks obtained by each student and print the names of the students along with total marks obtained.
+
+32. Write a program to enter the names of cities into a city array and the higest and lowest temperature recorded in the cities anto a 2D array.
+    Display the city corrosponding to the higest temperature and the lowest temperature.(5 cities)
+
+33. Write a program to enter marks obtained by 10 students in 3 subjects and calculate the grade bor each student based on avrage marks.
+    =<45.0          D
+    >45.0  =<60.0   C
+    >60.0  =<75.0   B
+    >75             A
