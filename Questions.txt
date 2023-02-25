@@ -77,3 +77,5 @@
     >45.0  =<60.0   C
     >60.0  =<75.0   B
     >75             A
+
+34. Write a program to print the table of 3. (using methods)
