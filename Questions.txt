@@ -84,4 +84,4 @@
 
 36. Write a program using a menu to add subtract multiply and divide 2 numbers, using methods (With return, without parameters)
 
-37. Write a program to print the table of 3 (With return, without parameters)
+37. Write a program to print the table of 3 (Without return, with parameters)
