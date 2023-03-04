@@ -78,4 +78,10 @@
     >60.0  =<75.0   B
     >75             A
 
-34. Write a program to print the table of 3. (using methods)
+34. Write a program to print the table of 3 (Without return, without parameters)
+
+35. Write a program using a menu to add subtract multiply and divide 2 numbers, using methods (Without return, without parameters)
+
+36. Write a program using a menu to add subtract multiply and divide 2 numbers, using methods (With return, without parameters)
+
+37. Write a program to print the table of 3 (With return, without parameters)
